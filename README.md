@@ -1,5 +1,8 @@
 # PersianAnagram
-find anagram of given persian word with simple GTKSharp GUI
+find anagram of given persian word with simple GTKSharp GUI <br/>
+<br/>
+![output](https://github.com/hadishamgholi/PersianAnagram/blob/master/screenshot/ouput1.png)
+<br/>
 ### Requirements
 this project is based on [Mono](https://www.mono-project.com/) (a Cross platform, open source .NET framework).
 * download and install it from [here](https://www.mono-project.com/download/stable/) (it's better to install mono-complete)
