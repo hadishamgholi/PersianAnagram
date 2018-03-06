@@ -9,6 +9,7 @@ this project is based on [Mono](https://www.mono-project.com/) (a Cross platform
 * Jetbrains Rider is the IDE that this project is built on.
 
 ### Resourse
+Dataset is from this [link](https://groups.google.com/forum/#!topic/persian-computing/qM5NxAr344M). it's Openoffice Persian Spellchecker Dictionary <br/>
 the idea of using prime numbers is gotten from a [quora](https://www.quora.com/What-is-the-shortest-algorithm-to-test-if-two-strings-are-anagrams) question and answer. <br/>
 here is the summery of the idea (copied from quora): <br/>
 
