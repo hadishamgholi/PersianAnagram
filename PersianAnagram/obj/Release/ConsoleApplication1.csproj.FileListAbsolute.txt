@@ -1,0 +1,14 @@
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/ConsoleApplication1.exe
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/ConsoleApplication1.pdb
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/AtkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/CairoSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/GdkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/GioSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/GLibSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/GtkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/PangoSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Release/ConsoleApplication1.csprojResolveAssemblyReference.cache
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Release/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Release/ConsoleApplication1.exe
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Release/ConsoleApplication1.pdb
+/home/hadi/Documents/csharp/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Release/ConsoleApplication1.exe.manifest

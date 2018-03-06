@@ -1,0 +1,13 @@
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/PersianAnagram.exe
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/PersianAnagram.pdb
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/AtkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/CairoSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/GdkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/GioSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/GLibSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/GtkSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/bin/Debug/PangoSharp.dll
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/obj/Debug/PersianAnagram.csprojResolveAssemblyReference.cache
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/obj/Debug/PersianAnagram.csproj.CoreCompileInputs.cache
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/obj/Debug/PersianAnagram.exe
+/home/hadi/Documents/csharp/RiderProjects/PersianAnagram/PersianAnagram/obj/Debug/PersianAnagram.pdb
